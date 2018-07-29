@@ -28,7 +28,7 @@ We use [Meetup.com](http://meetup.com/openmaine) to announce and host regular ev
 
 Visit our Meetup group page at meetup.com/openmaine. Select 'Join Group' to join the Meetup group and be notified of future events and RSVP for current events. 
 
-[![Foo](http://cvlassets.s3.amazonaws.com/Screen%20Shot%202017-03-27%20at%2012.52.06%20AM.png)](https://meetup.com/openmaine)
+[![Foo](imgs/meetup-screen.png)](https://meetup.com/openmaine)
 
 We use Meetup to check-in Brigade Members at events, and Code for America uses Meetup.com attendance numbers to allocate funding to us as a Brigade. So, if you plan on attending an event, help chip-in for the pizza by simply joining and RSVP'ing for the event on Meetup. We'll love you for it.
 
